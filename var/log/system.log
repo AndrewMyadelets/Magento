@@ -1,0 +1,1187 @@
+[2021-08-11 09:14:26] main.ERROR: Parameter validation failed
+#0 /var/www/magento2.loc/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize()
+#1 /var/www/magento2.loc/vendor/symfony/console/Application.php(1009): Symfony\Component\Console\Command\Command->run()
+#2 /var/www/magento2.loc/vendor/symfony/console/Application.php(273): Symfony\Component\Console\Application->doRunCommand()
+#3 /var/www/magento2.loc/vendor/magento/framework/Console/Cli.php(115): Symfony\Component\Console\Application->doRun()
+#4 /var/www/magento2.loc/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#5 /var/www/magento2.loc/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2021-08-11 09:19:30] main.ERROR: The "--search-andrew" option does not exist.
+#0 /var/www/magento2.loc/vendor/symfony/console/Input/ArgvInput.php(143): Symfony\Component\Console\Input\ArgvInput->addLongOption()
+#1 /var/www/magento2.loc/vendor/symfony/console/Input/ArgvInput.php(79): Symfony\Component\Console\Input\ArgvInput->parseLongOption()
+#2 /var/www/magento2.loc/vendor/symfony/console/Input/Input.php(55): Symfony\Component\Console\Input\ArgvInput->parse()
+#3 /var/www/magento2.loc/vendor/symfony/console/Command/Command.php(214): Symfony\Component\Console\Input\Input->bind()
+#4 /var/www/magento2.loc/vendor/symfony/console/Application.php(1009): Symfony\Component\Console\Command\Command->run()
+#5 /var/www/magento2.loc/vendor/symfony/console/Application.php(273): Symfony\Component\Console\Application->doRunCommand()
+#6 /var/www/magento2.loc/vendor/magento/framework/Console/Cli.php(115): Symfony\Component\Console\Application->doRun()
+#7 /var/www/magento2.loc/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#8 /var/www/magento2.loc/bin/magento(23): Symfony\Component\Console\Application->run()
+#9 {main} [] []
+[2021-08-11 09:21:18] main.ERROR: The "--search-andrew" option does not exist.
+#0 /var/www/magento2.loc/vendor/symfony/console/Input/ArgvInput.php(143): Symfony\Component\Console\Input\ArgvInput->addLongOption()
+#1 /var/www/magento2.loc/vendor/symfony/console/Input/ArgvInput.php(79): Symfony\Component\Console\Input\ArgvInput->parseLongOption()
+#2 /var/www/magento2.loc/vendor/symfony/console/Input/Input.php(55): Symfony\Component\Console\Input\ArgvInput->parse()
+#3 /var/www/magento2.loc/vendor/symfony/console/Command/Command.php(214): Symfony\Component\Console\Input\Input->bind()
+#4 /var/www/magento2.loc/vendor/symfony/console/Application.php(1009): Symfony\Component\Console\Command\Command->run()
+#5 /var/www/magento2.loc/vendor/symfony/console/Application.php(273): Symfony\Component\Console\Application->doRunCommand()
+#6 /var/www/magento2.loc/vendor/magento/framework/Console/Cli.php(115): Symfony\Component\Console\Application->doRun()
+#7 /var/www/magento2.loc/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#8 /var/www/magento2.loc/bin/magento(23): Symfony\Component\Console\Application->run()
+#9 {main} [] []
+[2021-08-11 09:21:22] main.ERROR: The "--search-andrew" option does not exist.
+#0 /var/www/magento2.loc/vendor/symfony/console/Input/ArgvInput.php(143): Symfony\Component\Console\Input\ArgvInput->addLongOption()
+#1 /var/www/magento2.loc/vendor/symfony/console/Input/ArgvInput.php(79): Symfony\Component\Console\Input\ArgvInput->parseLongOption()
+#2 /var/www/magento2.loc/vendor/symfony/console/Input/Input.php(55): Symfony\Component\Console\Input\ArgvInput->parse()
+#3 /var/www/magento2.loc/vendor/symfony/console/Command/Command.php(214): Symfony\Component\Console\Input\Input->bind()
+#4 /var/www/magento2.loc/vendor/symfony/console/Application.php(1009): Symfony\Component\Console\Command\Command->run()
+#5 /var/www/magento2.loc/vendor/symfony/console/Application.php(273): Symfony\Component\Console\Application->doRunCommand()
+#6 /var/www/magento2.loc/vendor/magento/framework/Console/Cli.php(115): Symfony\Component\Console\Application->doRun()
+#7 /var/www/magento2.loc/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#8 /var/www/magento2.loc/bin/magento(23): Symfony\Component\Console\Application->run()
+#9 {main} [] []
+[2021-08-11 09:21:53] main.ERROR: Parameter validation failed
+#0 /var/www/magento2.loc/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize()
+#1 /var/www/magento2.loc/vendor/symfony/console/Application.php(1009): Symfony\Component\Console\Command\Command->run()
+#2 /var/www/magento2.loc/vendor/symfony/console/Application.php(273): Symfony\Component\Console\Application->doRunCommand()
+#3 /var/www/magento2.loc/vendor/magento/framework/Console/Cli.php(115): Symfony\Component\Console\Application->doRun()
+#4 /var/www/magento2.loc/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#5 /var/www/magento2.loc/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2021-08-11 09:22:43] main.ERROR: The "--search-andrew" option does not exist.
+#0 /var/www/magento2.loc/vendor/symfony/console/Input/ArgvInput.php(143): Symfony\Component\Console\Input\ArgvInput->addLongOption()
+#1 /var/www/magento2.loc/vendor/symfony/console/Input/ArgvInput.php(79): Symfony\Component\Console\Input\ArgvInput->parseLongOption()
+#2 /var/www/magento2.loc/vendor/symfony/console/Input/Input.php(55): Symfony\Component\Console\Input\ArgvInput->parse()
+#3 /var/www/magento2.loc/vendor/symfony/console/Command/Command.php(214): Symfony\Component\Console\Input\Input->bind()
+#4 /var/www/magento2.loc/vendor/symfony/console/Application.php(1009): Symfony\Component\Console\Command\Command->run()
+#5 /var/www/magento2.loc/vendor/symfony/console/Application.php(273): Symfony\Component\Console\Application->doRunCommand()
+#6 /var/www/magento2.loc/vendor/magento/framework/Console/Cli.php(115): Symfony\Component\Console\Application->doRun()
+#7 /var/www/magento2.loc/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#8 /var/www/magento2.loc/bin/magento(23): Symfony\Component\Console\Application->run()
+#9 {main} [] []
+[2021-08-11 20:35:14] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-11 20:35:15] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-11 20:35:15] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-11 20:35:21] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-11 20:35:22] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-11 20:35:23] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-11 20:36:46] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 06:59:53] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 06:59:53] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 06:59:54] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 06:59:58] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 06:59:59] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 06:59:59] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 07:02:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 07:44:38] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 07:44:39] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 07:44:40] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 07:44:44] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 07:44:44] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 07:44:45] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 07:46:09] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 10:12:47] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 10:12:48] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 10:12:48] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 10:12:54] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 10:12:54] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 10:12:55] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 10:14:43] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 13:05:10] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 13:05:11] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 13:05:11] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 13:05:16] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 13:05:17] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 13:05:17] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 13:06:55] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 14:44:55] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/custom_customer_index.xml' is not valid.
+Extra content at the end of the document
+ Line: 16 [] []
+[2021-08-12 14:45:19] main.CRITICAL: Class MyTest\Custom\Block\CustomerAccount\Index does not exist [] []
+[2021-08-12 14:45:19] main.CRITICAL: Invalid block type: MyTest\Custom\Block\CustomerAccount\Index [] []
+[2021-08-12 14:46:16] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/custom_customer_index.xml' is not valid.
+Extra content at the end of the document
+ Line: 16 [] []
+[2021-08-12 14:46:17] main.CRITICAL: Class MyTest\Custom\Block\CustomerAccount\Index does not exist [] []
+[2021-08-12 14:46:17] main.CRITICAL: Invalid block type: MyTest\Custom\Block\CustomerAccount\Index [] []
+[2021-08-12 14:52:49] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/custom_customer_index.xml' is not valid.
+Extra content at the end of the document
+ Line: 16 [] []
+[2021-08-12 14:52:50] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/customer_account.xml' is not valid.
+Start tag expected, '<' not found
+ Line: 12 [] []
+[2021-08-12 14:52:50] main.CRITICAL: Error: Class 'MyTest\Custom\Block\CustomerAccount\Index' not found in /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:121
+Stack trace:
+#0 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(108): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#1 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#2 /var/www/magento2.loc/vendor/magento/framework/View/Element/BlockFactory.php(46): Magento\Framework\ObjectManager\ObjectManager->create()
+#3 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(272): Magento\Framework\View\Element\BlockFactory->createBlock()
+#4 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(252): Magento\Framework\View\Layout\Generator\Block->getBlockInstance()
+#5 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(229): Magento\Framework\View\Layout\Generator\Block->createBlock()
+#6 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(134): Magento\Framework\View\Layout\Generator\Block->generateBlock()
+#7 /var/www/magento2.loc/vendor/magento/framework/View/Layout/GeneratorPool.php(93): Magento\Framework\View\Layout\Generator\Block->process()
+#8 /var/www/magento2.loc/vendor/magento/framework/View/Layout.php(365): Magento\Framework\View\Layout\GeneratorPool->process()
+#9 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\View\Layout->generateElements()
+#10 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\View\Layout\Interceptor->___callParent()
+#11 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\View\Layout\Interceptor->Magento\Framework\Interception\{closure}()
+#12 /var/www/magento2.loc/generated/code/Magento/Framework/View/Layout/Interceptor.php(32): Magento\Framework\View\Layout\Interceptor->___callPlugins()
+#13 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Builder.php(129): Magento\Framework\View\Layout\Interceptor->generateElements()
+#14 /var/www/magento2.loc/vendor/magento/framework/View/Page/Builder.php(65): Magento\Framework\View\Layout\Builder->generateLayoutBlocks()
+#15 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Builder.php(65): Magento\Framework\View\Page\Builder->generateLayoutBlocks()
+#16 /var/www/magento2.loc/vendor/magento/framework/View/Page/Config.php(224): Magento\Framework\View\Layout\Builder->build()
+#17 /var/www/magento2.loc/vendor/magento/framework/View/Page/Config.php(237): Magento\Framework\View\Page\Config->build()
+#18 /var/www/magento2.loc/vendor/magento/framework/View/Result/Page.php(244): Magento\Framework\View\Page\Config->publicBuild()
+#19 /var/www/magento2.loc/vendor/magento/framework/View/Result/Layout.php(171): Magento\Framework\View\Result\Page->render()
+#20 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\View\Result\Layout->renderResult()
+#21 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\View\Result\Page\Interceptor->___callParent()
+#22 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\View\Result\Page\Interceptor->Magento\Framework\Interception\{closure}()
+#23 /var/www/magento2.loc/generated/code/Magento/Framework/View/Result/Page/Interceptor.php(23): Magento\Framework\View\Result\Page\Interceptor->___callPlugins()
+#24 /var/www/magento2.loc/vendor/magento/framework/App/Http.php(120): Magento\Framework\View\Result\Page\Interceptor->renderResult()
+#25 /var/www/magento2.loc/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#26 /var/www/magento2.loc/pub/index.php(29): Magento\Framework\App\Bootstrap->run()
+#27 {main} [] []
+[2021-08-12 14:54:28] main.CRITICAL: Error: Class 'MyTest\Custom\Block\CustomerAccount\Index' not found in /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:121
+Stack trace:
+#0 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(108): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#1 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#2 /var/www/magento2.loc/vendor/magento/framework/View/Element/BlockFactory.php(46): Magento\Framework\ObjectManager\ObjectManager->create()
+#3 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(272): Magento\Framework\View\Element\BlockFactory->createBlock()
+#4 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(252): Magento\Framework\View\Layout\Generator\Block->getBlockInstance()
+#5 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(229): Magento\Framework\View\Layout\Generator\Block->createBlock()
+#6 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(134): Magento\Framework\View\Layout\Generator\Block->generateBlock()
+#7 /var/www/magento2.loc/vendor/magento/framework/View/Layout/GeneratorPool.php(93): Magento\Framework\View\Layout\Generator\Block->process()
+#8 /var/www/magento2.loc/vendor/magento/framework/View/Layout.php(365): Magento\Framework\View\Layout\GeneratorPool->process()
+#9 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\View\Layout->generateElements()
+#10 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\View\Layout\Interceptor->___callParent()
+#11 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\View\Layout\Interceptor->Magento\Framework\Interception\{closure}()
+#12 /var/www/magento2.loc/generated/code/Magento/Framework/View/Layout/Interceptor.php(32): Magento\Framework\View\Layout\Interceptor->___callPlugins()
+#13 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Builder.php(129): Magento\Framework\View\Layout\Interceptor->generateElements()
+#14 /var/www/magento2.loc/vendor/magento/framework/View/Page/Builder.php(65): Magento\Framework\View\Layout\Builder->generateLayoutBlocks()
+#15 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Builder.php(65): Magento\Framework\View\Page\Builder->generateLayoutBlocks()
+#16 /var/www/magento2.loc/vendor/magento/framework/View/Page/Config.php(224): Magento\Framework\View\Layout\Builder->build()
+#17 /var/www/magento2.loc/vendor/magento/framework/View/Page/Config.php(237): Magento\Framework\View\Page\Config->build()
+#18 /var/www/magento2.loc/vendor/magento/framework/View/Result/Page.php(244): Magento\Framework\View\Page\Config->publicBuild()
+#19 /var/www/magento2.loc/vendor/magento/framework/View/Result/Layout.php(171): Magento\Framework\View\Result\Page->render()
+#20 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\View\Result\Layout->renderResult()
+#21 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\View\Result\Page\Interceptor->___callParent()
+#22 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\View\Result\Page\Interceptor->Magento\Framework\Interception\{closure}()
+#23 /var/www/magento2.loc/generated/code/Magento/Framework/View/Result/Page/Interceptor.php(23): Magento\Framework\View\Result\Page\Interceptor->___callPlugins()
+#24 /var/www/magento2.loc/vendor/magento/framework/App/Http.php(120): Magento\Framework\View\Result\Page\Interceptor->renderResult()
+#25 /var/www/magento2.loc/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#26 /var/www/magento2.loc/pub/index.php(29): Magento\Framework\App\Bootstrap->run()
+#27 {main} [] []
+[2021-08-12 15:03:09] main.CRITICAL: Error: Class 'MyTest\Custom\Block\CustomerAccount\Index' not found in /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:121
+Stack trace:
+#0 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(108): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#1 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#2 /var/www/magento2.loc/vendor/magento/framework/View/Element/BlockFactory.php(46): Magento\Framework\ObjectManager\ObjectManager->create()
+#3 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(272): Magento\Framework\View\Element\BlockFactory->createBlock()
+#4 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(252): Magento\Framework\View\Layout\Generator\Block->getBlockInstance()
+#5 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(229): Magento\Framework\View\Layout\Generator\Block->createBlock()
+#6 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(134): Magento\Framework\View\Layout\Generator\Block->generateBlock()
+#7 /var/www/magento2.loc/vendor/magento/framework/View/Layout/GeneratorPool.php(93): Magento\Framework\View\Layout\Generator\Block->process()
+#8 /var/www/magento2.loc/vendor/magento/framework/View/Layout.php(365): Magento\Framework\View\Layout\GeneratorPool->process()
+#9 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\View\Layout->generateElements()
+#10 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\View\Layout\Interceptor->___callParent()
+#11 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\View\Layout\Interceptor->Magento\Framework\Interception\{closure}()
+#12 /var/www/magento2.loc/generated/code/Magento/Framework/View/Layout/Interceptor.php(32): Magento\Framework\View\Layout\Interceptor->___callPlugins()
+#13 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Builder.php(129): Magento\Framework\View\Layout\Interceptor->generateElements()
+#14 /var/www/magento2.loc/vendor/magento/framework/View/Page/Builder.php(65): Magento\Framework\View\Layout\Builder->generateLayoutBlocks()
+#15 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Builder.php(65): Magento\Framework\View\Page\Builder->generateLayoutBlocks()
+#16 /var/www/magento2.loc/vendor/magento/framework/View/Page/Config.php(224): Magento\Framework\View\Layout\Builder->build()
+#17 /var/www/magento2.loc/vendor/magento/framework/View/Page/Config.php(237): Magento\Framework\View\Page\Config->build()
+#18 /var/www/magento2.loc/vendor/magento/framework/View/Result/Page.php(244): Magento\Framework\View\Page\Config->publicBuild()
+#19 /var/www/magento2.loc/vendor/magento/framework/View/Result/Layout.php(171): Magento\Framework\View\Result\Page->render()
+#20 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\View\Result\Layout->renderResult()
+#21 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\View\Result\Page\Interceptor->___callParent()
+#22 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\View\Result\Page\Interceptor->Magento\Framework\Interception\{closure}()
+#23 /var/www/magento2.loc/generated/code/Magento/Framework/View/Result/Page/Interceptor.php(23): Magento\Framework\View\Result\Page\Interceptor->___callPlugins()
+#24 /var/www/magento2.loc/vendor/magento/framework/App/Http.php(120): Magento\Framework\View\Result\Page\Interceptor->renderResult()
+#25 /var/www/magento2.loc/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#26 /var/www/magento2.loc/pub/index.php(29): Magento\Framework\App\Bootstrap->run()
+#27 {main} [] []
+[2021-08-12 15:08:26] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 15:08:27] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 15:08:27] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 15:08:32] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 15:08:32] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 15:08:33] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 15:10:02] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 15:24:59] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/custom_customer_index.xml' is not valid.
+Extra content at the end of the document
+ Line: 16 [] []
+[2021-08-12 15:24:59] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/customer_account.xml' is not valid.
+Start tag expected, '<' not found
+ Line: 12 [] []
+[2021-08-12 15:25:01] main.CRITICAL: Error: Class 'MyTest\Custom\Block\CustomerAccount\Index' not found in /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:121
+Stack trace:
+#0 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(108): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#1 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#2 /var/www/magento2.loc/vendor/magento/framework/View/Element/BlockFactory.php(46): Magento\Framework\ObjectManager\ObjectManager->create()
+#3 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(272): Magento\Framework\View\Element\BlockFactory->createBlock()
+#4 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(252): Magento\Framework\View\Layout\Generator\Block->getBlockInstance()
+#5 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(229): Magento\Framework\View\Layout\Generator\Block->createBlock()
+#6 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(134): Magento\Framework\View\Layout\Generator\Block->generateBlock()
+#7 /var/www/magento2.loc/vendor/magento/framework/View/Layout/GeneratorPool.php(93): Magento\Framework\View\Layout\Generator\Block->process()
+#8 /var/www/magento2.loc/vendor/magento/framework/View/Layout.php(365): Magento\Framework\View\Layout\GeneratorPool->process()
+#9 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\View\Layout->generateElements()
+#10 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\View\Layout\Interceptor->___callParent()
+#11 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\View\Layout\Interceptor->Magento\Framework\Interception\{closure}()
+#12 /var/www/magento2.loc/generated/code/Magento/Framework/View/Layout/Interceptor.php(32): Magento\Framework\View\Layout\Interceptor->___callPlugins()
+#13 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Builder.php(129): Magento\Framework\View\Layout\Interceptor->generateElements()
+#14 /var/www/magento2.loc/vendor/magento/framework/View/Page/Builder.php(65): Magento\Framework\View\Layout\Builder->generateLayoutBlocks()
+#15 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Builder.php(65): Magento\Framework\View\Page\Builder->generateLayoutBlocks()
+#16 /var/www/magento2.loc/vendor/magento/framework/View/Page/Config.php(224): Magento\Framework\View\Layout\Builder->build()
+#17 /var/www/magento2.loc/vendor/magento/framework/View/Page/Config.php(237): Magento\Framework\View\Page\Config->build()
+#18 /var/www/magento2.loc/vendor/magento/framework/View/Result/Page.php(244): Magento\Framework\View\Page\Config->publicBuild()
+#19 /var/www/magento2.loc/vendor/magento/framework/View/Result/Layout.php(171): Magento\Framework\View\Result\Page->render()
+#20 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\View\Result\Layout->renderResult()
+#21 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\View\Result\Page\Interceptor->___callParent()
+#22 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\View\Result\Page\Interceptor->Magento\Framework\Interception\{closure}()
+#23 /var/www/magento2.loc/generated/code/Magento/Framework/View/Result/Page/Interceptor.php(23): Magento\Framework\View\Result\Page\Interceptor->___callPlugins()
+#24 /var/www/magento2.loc/vendor/magento/framework/App/Http.php(120): Magento\Framework\View\Result\Page\Interceptor->renderResult()
+#25 /var/www/magento2.loc/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#26 /var/www/magento2.loc/pub/index.php(29): Magento\Framework\App\Bootstrap->run()
+#27 {main} [] []
+[2021-08-12 15:28:37] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/custom_customer_index.xml' is not valid.
+Extra content at the end of the document
+ Line: 16 [] []
+[2021-08-12 15:28:37] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/customer_account.xml' is not valid.
+Start tag expected, '<' not found
+ Line: 12 [] []
+[2021-08-12 15:28:37] main.CRITICAL: Error: Class 'MyTest\Custom\Block\CustomerAccount\Index' not found in /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:121
+Stack trace:
+#0 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(108): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#1 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#2 /var/www/magento2.loc/vendor/magento/framework/View/Element/BlockFactory.php(46): Magento\Framework\ObjectManager\ObjectManager->create()
+#3 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(272): Magento\Framework\View\Element\BlockFactory->createBlock()
+#4 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(252): Magento\Framework\View\Layout\Generator\Block->getBlockInstance()
+#5 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(229): Magento\Framework\View\Layout\Generator\Block->createBlock()
+#6 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(134): Magento\Framework\View\Layout\Generator\Block->generateBlock()
+#7 /var/www/magento2.loc/vendor/magento/framework/View/Layout/GeneratorPool.php(93): Magento\Framework\View\Layout\Generator\Block->process()
+#8 /var/www/magento2.loc/vendor/magento/framework/View/Layout.php(365): Magento\Framework\View\Layout\GeneratorPool->process()
+#9 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\View\Layout->generateElements()
+#10 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\View\Layout\Interceptor->___callParent()
+#11 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\View\Layout\Interceptor->Magento\Framework\Interception\{closure}()
+#12 /var/www/magento2.loc/generated/code/Magento/Framework/View/Layout/Interceptor.php(32): Magento\Framework\View\Layout\Interceptor->___callPlugins()
+#13 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Builder.php(129): Magento\Framework\View\Layout\Interceptor->generateElements()
+#14 /var/www/magento2.loc/vendor/magento/framework/View/Page/Builder.php(65): Magento\Framework\View\Layout\Builder->generateLayoutBlocks()
+#15 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Builder.php(65): Magento\Framework\View\Page\Builder->generateLayoutBlocks()
+#16 /var/www/magento2.loc/vendor/magento/framework/View/Page/Config.php(224): Magento\Framework\View\Layout\Builder->build()
+#17 /var/www/magento2.loc/vendor/magento/framework/View/Page/Config.php(237): Magento\Framework\View\Page\Config->build()
+#18 /var/www/magento2.loc/vendor/magento/framework/View/Result/Page.php(244): Magento\Framework\View\Page\Config->publicBuild()
+#19 /var/www/magento2.loc/vendor/magento/framework/View/Result/Layout.php(171): Magento\Framework\View\Result\Page->render()
+#20 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\View\Result\Layout->renderResult()
+#21 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\View\Result\Page\Interceptor->___callParent()
+#22 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\View\Result\Page\Interceptor->Magento\Framework\Interception\{closure}()
+#23 /var/www/magento2.loc/generated/code/Magento/Framework/View/Result/Page/Interceptor.php(23): Magento\Framework\View\Result\Page\Interceptor->___callPlugins()
+#24 /var/www/magento2.loc/vendor/magento/framework/App/Http.php(120): Magento\Framework\View\Result\Page\Interceptor->renderResult()
+#25 /var/www/magento2.loc/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#26 /var/www/magento2.loc/pub/index.php(29): Magento\Framework\App\Bootstrap->run()
+#27 {main} [] []
+[2021-08-12 15:32:31] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/custom_customer_index.xml' is not valid.
+Extra content at the end of the document
+ Line: 16 [] []
+[2021-08-12 15:32:31] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/customer_account.xml' is not valid.
+Start tag expected, '<' not found
+ Line: 12 [] []
+[2021-08-12 15:32:31] main.CRITICAL: Class MyTest\Custom\Block\CustomerAccount\Index does not exist [] []
+[2021-08-12 15:32:31] main.CRITICAL: Invalid block type: MyTest\Custom\Block\CustomerAccount\Index [] []
+[2021-08-12 15:40:15] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/custom_customer_index.xml' is not valid.
+Extra content at the end of the document
+ Line: 16 [] []
+[2021-08-12 15:40:15] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/customer_account.xml' is not valid.
+Start tag expected, '<' not found
+ Line: 12 [] []
+[2021-08-12 15:40:17] main.CRITICAL: Error: Class 'MyTest\Custom\Block\CustomerAccount\Index' not found in /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:121
+Stack trace:
+#0 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(108): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#1 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#2 /var/www/magento2.loc/vendor/magento/framework/View/Element/BlockFactory.php(46): Magento\Framework\ObjectManager\ObjectManager->create()
+#3 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(272): Magento\Framework\View\Element\BlockFactory->createBlock()
+#4 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(252): Magento\Framework\View\Layout\Generator\Block->getBlockInstance()
+#5 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(229): Magento\Framework\View\Layout\Generator\Block->createBlock()
+#6 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(134): Magento\Framework\View\Layout\Generator\Block->generateBlock()
+#7 /var/www/magento2.loc/vendor/magento/framework/View/Layout/GeneratorPool.php(93): Magento\Framework\View\Layout\Generator\Block->process()
+#8 /var/www/magento2.loc/vendor/magento/framework/View/Layout.php(365): Magento\Framework\View\Layout\GeneratorPool->process()
+#9 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\View\Layout->generateElements()
+#10 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\View\Layout\Interceptor->___callParent()
+#11 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\View\Layout\Interceptor->Magento\Framework\Interception\{closure}()
+#12 /var/www/magento2.loc/generated/code/Magento/Framework/View/Layout/Interceptor.php(32): Magento\Framework\View\Layout\Interceptor->___callPlugins()
+#13 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Builder.php(129): Magento\Framework\View\Layout\Interceptor->generateElements()
+#14 /var/www/magento2.loc/vendor/magento/framework/View/Page/Builder.php(65): Magento\Framework\View\Layout\Builder->generateLayoutBlocks()
+#15 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Builder.php(65): Magento\Framework\View\Page\Builder->generateLayoutBlocks()
+#16 /var/www/magento2.loc/vendor/magento/framework/View/Page/Config.php(224): Magento\Framework\View\Layout\Builder->build()
+#17 /var/www/magento2.loc/vendor/magento/framework/View/Page/Config.php(237): Magento\Framework\View\Page\Config->build()
+#18 /var/www/magento2.loc/vendor/magento/framework/View/Result/Page.php(244): Magento\Framework\View\Page\Config->publicBuild()
+#19 /var/www/magento2.loc/vendor/magento/framework/View/Result/Layout.php(171): Magento\Framework\View\Result\Page->render()
+#20 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\View\Result\Layout->renderResult()
+#21 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\View\Result\Page\Interceptor->___callParent()
+#22 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\View\Result\Page\Interceptor->Magento\Framework\Interception\{closure}()
+#23 /var/www/magento2.loc/generated/code/Magento/Framework/View/Result/Page/Interceptor.php(23): Magento\Framework\View\Result\Page\Interceptor->___callPlugins()
+#24 /var/www/magento2.loc/vendor/magento/framework/App/Http.php(120): Magento\Framework\View\Result\Page\Interceptor->renderResult()
+#25 /var/www/magento2.loc/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#26 /var/www/magento2.loc/pub/index.php(29): Magento\Framework\App\Bootstrap->run()
+#27 {main} [] []
+[2021-08-12 17:42:31] main.ERROR: Please upgrade your database: Run "bin/magento setup:upgrade" from the Magento root directory.
+The following modules are outdated:
+MyTest_Custom schema: current version - 1.0.0, required version - 2.0.0
+MyTest_Custom data: current version - 1.0.0, required version - 2.0.0 [] []
+[2021-08-12 17:48:19] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 17:48:20] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 17:48:20] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 17:48:26] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 17:48:27] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 17:48:28] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 17:49:48] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 17:51:48] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/custom_customer_index.xml' is not valid.
+Extra content at the end of the document
+ Line: 16 [] []
+[2021-08-12 17:51:48] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/customer_account.xml' is not valid.
+Start tag expected, '<' not found
+ Line: 12 [] []
+[2021-08-12 17:52:31] main.CRITICAL: Class MyTest\Custom\Block\CustomerAccount\Index does not exist [] []
+[2021-08-12 17:52:31] main.CRITICAL: Invalid block type: MyTest\Custom\Block\CustomerAccount\Index [] []
+[2021-08-12 18:50:11] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/custom_customer_index.xml' is not valid.
+Extra content at the end of the document
+ Line: 16 [] []
+[2021-08-12 18:50:11] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/customer_account.xml' is not valid.
+Start tag expected, '<' not found
+ Line: 12 [] []
+[2021-08-12 18:50:16] main.CRITICAL: Error: Class 'MyTest\Custom\Block\CustomerAccount\Index' not found in /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:121
+Stack trace:
+#0 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(108): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#1 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#2 /var/www/magento2.loc/vendor/magento/framework/View/Element/BlockFactory.php(46): Magento\Framework\ObjectManager\ObjectManager->create()
+#3 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(272): Magento\Framework\View\Element\BlockFactory->createBlock()
+#4 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(252): Magento\Framework\View\Layout\Generator\Block->getBlockInstance()
+#5 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(229): Magento\Framework\View\Layout\Generator\Block->createBlock()
+#6 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(134): Magento\Framework\View\Layout\Generator\Block->generateBlock()
+#7 /var/www/magento2.loc/vendor/magento/framework/View/Layout/GeneratorPool.php(93): Magento\Framework\View\Layout\Generator\Block->process()
+#8 /var/www/magento2.loc/vendor/magento/framework/View/Layout.php(365): Magento\Framework\View\Layout\GeneratorPool->process()
+#9 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\View\Layout->generateElements()
+#10 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\View\Layout\Interceptor->___callParent()
+#11 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\View\Layout\Interceptor->Magento\Framework\Interception\{closure}()
+#12 /var/www/magento2.loc/generated/code/Magento/Framework/View/Layout/Interceptor.php(32): Magento\Framework\View\Layout\Interceptor->___callPlugins()
+#13 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Builder.php(129): Magento\Framework\View\Layout\Interceptor->generateElements()
+#14 /var/www/magento2.loc/vendor/magento/framework/View/Page/Builder.php(65): Magento\Framework\View\Layout\Builder->generateLayoutBlocks()
+#15 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Builder.php(65): Magento\Framework\View\Page\Builder->generateLayoutBlocks()
+#16 /var/www/magento2.loc/vendor/magento/framework/View/Page/Config.php(224): Magento\Framework\View\Layout\Builder->build()
+#17 /var/www/magento2.loc/vendor/magento/framework/View/Page/Config.php(237): Magento\Framework\View\Page\Config->build()
+#18 /var/www/magento2.loc/vendor/magento/framework/View/Result/Page.php(244): Magento\Framework\View\Page\Config->publicBuild()
+#19 /var/www/magento2.loc/vendor/magento/framework/View/Result/Layout.php(171): Magento\Framework\View\Result\Page->render()
+#20 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\View\Result\Layout->renderResult()
+#21 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\View\Result\Page\Interceptor->___callParent()
+#22 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\View\Result\Page\Interceptor->Magento\Framework\Interception\{closure}()
+#23 /var/www/magento2.loc/generated/code/Magento/Framework/View/Result/Page/Interceptor.php(23): Magento\Framework\View\Result\Page\Interceptor->___callPlugins()
+#24 /var/www/magento2.loc/vendor/magento/framework/App/Http.php(120): Magento\Framework\View\Result\Page\Interceptor->renderResult()
+#25 /var/www/magento2.loc/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#26 /var/www/magento2.loc/pub/index.php(29): Magento\Framework\App\Bootstrap->run()
+#27 {main} [] []
+[2021-08-12 18:50:22] main.CRITICAL: Error: Class 'MyTest\Custom\Block\CustomerAccount\Index' not found in /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:121
+Stack trace:
+#0 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(108): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#1 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#2 /var/www/magento2.loc/vendor/magento/framework/View/Element/BlockFactory.php(46): Magento\Framework\ObjectManager\ObjectManager->create()
+#3 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(272): Magento\Framework\View\Element\BlockFactory->createBlock()
+#4 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(252): Magento\Framework\View\Layout\Generator\Block->getBlockInstance()
+#5 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(229): Magento\Framework\View\Layout\Generator\Block->createBlock()
+#6 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(134): Magento\Framework\View\Layout\Generator\Block->generateBlock()
+#7 /var/www/magento2.loc/vendor/magento/framework/View/Layout/GeneratorPool.php(93): Magento\Framework\View\Layout\Generator\Block->process()
+#8 /var/www/magento2.loc/vendor/magento/framework/View/Layout.php(365): Magento\Framework\View\Layout\GeneratorPool->process()
+#9 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\View\Layout->generateElements()
+#10 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\View\Layout\Interceptor->___callParent()
+#11 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\View\Layout\Interceptor->Magento\Framework\Interception\{closure}()
+#12 /var/www/magento2.loc/generated/code/Magento/Framework/View/Layout/Interceptor.php(32): Magento\Framework\View\Layout\Interceptor->___callPlugins()
+#13 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Builder.php(129): Magento\Framework\View\Layout\Interceptor->generateElements()
+#14 /var/www/magento2.loc/vendor/magento/framework/View/Page/Builder.php(65): Magento\Framework\View\Layout\Builder->generateLayoutBlocks()
+#15 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Builder.php(65): Magento\Framework\View\Page\Builder->generateLayoutBlocks()
+#16 /var/www/magento2.loc/vendor/magento/framework/View/Page/Config.php(224): Magento\Framework\View\Layout\Builder->build()
+#17 /var/www/magento2.loc/vendor/magento/framework/View/Page/Config.php(237): Magento\Framework\View\Page\Config->build()
+#18 /var/www/magento2.loc/vendor/magento/framework/View/Result/Page.php(244): Magento\Framework\View\Page\Config->publicBuild()
+#19 /var/www/magento2.loc/vendor/magento/framework/View/Result/Layout.php(171): Magento\Framework\View\Result\Page->render()
+#20 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\View\Result\Layout->renderResult()
+#21 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\View\Result\Page\Interceptor->___callParent()
+#22 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\View\Result\Page\Interceptor->Magento\Framework\Interception\{closure}()
+#23 /var/www/magento2.loc/generated/code/Magento/Framework/View/Result/Page/Interceptor.php(23): Magento\Framework\View\Result\Page\Interceptor->___callPlugins()
+#24 /var/www/magento2.loc/vendor/magento/framework/App/Http.php(120): Magento\Framework\View\Result\Page\Interceptor->renderResult()
+#25 /var/www/magento2.loc/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#26 /var/www/magento2.loc/pub/index.php(29): Magento\Framework\App\Bootstrap->run()
+#27 {main} [] []
+[2021-08-12 19:10:21] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 19:10:22] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 19:10:23] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 19:10:29] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 19:10:29] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 19:10:30] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 19:12:11] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 19:24:12] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/custom_customer_index.xml' is not valid.
+Extra content at the end of the document
+ Line: 16 [] []
+[2021-08-12 19:24:12] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/customer_account.xml' is not valid.
+Start tag expected, '<' not found
+ Line: 12 [] []
+[2021-08-12 19:24:13] main.CRITICAL: Error: Class 'MyTest\Custom\Block\CustomerAccount\Index' not found in /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:121
+Stack trace:
+#0 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(108): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#1 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#2 /var/www/magento2.loc/vendor/magento/framework/View/Element/BlockFactory.php(46): Magento\Framework\ObjectManager\ObjectManager->create()
+#3 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(272): Magento\Framework\View\Element\BlockFactory->createBlock()
+#4 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(252): Magento\Framework\View\Layout\Generator\Block->getBlockInstance()
+#5 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(229): Magento\Framework\View\Layout\Generator\Block->createBlock()
+#6 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Generator/Block.php(134): Magento\Framework\View\Layout\Generator\Block->generateBlock()
+#7 /var/www/magento2.loc/vendor/magento/framework/View/Layout/GeneratorPool.php(93): Magento\Framework\View\Layout\Generator\Block->process()
+#8 /var/www/magento2.loc/vendor/magento/framework/View/Layout.php(365): Magento\Framework\View\Layout\GeneratorPool->process()
+#9 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\View\Layout->generateElements()
+#10 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\View\Layout\Interceptor->___callParent()
+#11 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\View\Layout\Interceptor->Magento\Framework\Interception\{closure}()
+#12 /var/www/magento2.loc/generated/code/Magento/Framework/View/Layout/Interceptor.php(32): Magento\Framework\View\Layout\Interceptor->___callPlugins()
+#13 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Builder.php(129): Magento\Framework\View\Layout\Interceptor->generateElements()
+#14 /var/www/magento2.loc/vendor/magento/framework/View/Page/Builder.php(65): Magento\Framework\View\Layout\Builder->generateLayoutBlocks()
+#15 /var/www/magento2.loc/vendor/magento/framework/View/Layout/Builder.php(65): Magento\Framework\View\Page\Builder->generateLayoutBlocks()
+#16 /var/www/magento2.loc/vendor/magento/framework/View/Page/Config.php(224): Magento\Framework\View\Layout\Builder->build()
+#17 /var/www/magento2.loc/vendor/magento/framework/View/Page/Config.php(237): Magento\Framework\View\Page\Config->build()
+#18 /var/www/magento2.loc/vendor/magento/framework/View/Result/Page.php(244): Magento\Framework\View\Page\Config->publicBuild()
+#19 /var/www/magento2.loc/vendor/magento/framework/View/Result/Layout.php(171): Magento\Framework\View\Result\Page->render()
+#20 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\View\Result\Layout->renderResult()
+#21 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\View\Result\Page\Interceptor->___callParent()
+#22 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\View\Result\Page\Interceptor->Magento\Framework\Interception\{closure}()
+#23 /var/www/magento2.loc/generated/code/Magento/Framework/View/Result/Page/Interceptor.php(23): Magento\Framework\View\Result\Page\Interceptor->___callPlugins()
+#24 /var/www/magento2.loc/vendor/magento/framework/App/Http.php(120): Magento\Framework\View\Result\Page\Interceptor->renderResult()
+#25 /var/www/magento2.loc/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#26 /var/www/magento2.loc/pub/index.php(29): Magento\Framework\App\Bootstrap->run()
+#27 {main} [] []
+[2021-08-12 19:31:01] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 19:31:02] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 19:31:02] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 19:31:09] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 19:31:10] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 19:31:11] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 19:32:34] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-12 22:12:21] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/custom_customer_index.xml' is not valid.
+Extra content at the end of the document
+ Line: 16 [] []
+[2021-08-12 22:12:21] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/customer_account.xml' is not valid.
+Start tag expected, '<' not found
+ Line: 12 [] []
+[2021-08-12 22:13:13] main.CRITICAL: Class MyTest\Custom\Block\CustomerAccount\Index does not exist [] []
+[2021-08-12 22:13:13] main.CRITICAL: Invalid block type: MyTest\Custom\Block\CustomerAccount\Index [] []
+[2021-08-12 22:16:31] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/custom_customer_index.xml' is not valid.
+Extra content at the end of the document
+ Line: 16 [] []
+[2021-08-12 22:16:31] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/customer_account.xml' is not valid.
+Start tag expected, '<' not found
+ Line: 12 [] []
+[2021-08-12 22:16:32] main.CRITICAL: Class MyTest\Custom\Block\CustomerAccount\Index does not exist [] []
+[2021-08-12 22:16:32] main.CRITICAL: Invalid block type: MyTest\Custom\Block\CustomerAccount\Index [] []
+[2021-08-12 22:24:47] main.CRITICAL: Class MyTest\Custom\Block\CustomerAccount\Index does not exist [] []
+[2021-08-12 22:24:47] main.CRITICAL: Invalid block type: MyTest\Custom\Block\CustomerAccount\Index [] []
+[2021-08-12 22:24:58] main.CRITICAL: Class MyTest\Custom\Block\CustomerAccount\Index does not exist [] []
+[2021-08-12 22:24:58] main.CRITICAL: Invalid block type: MyTest\Custom\Block\CustomerAccount\Index [] []
+[2021-08-12 22:31:33] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/custom_customer_index.xml' is not valid.
+Extra content at the end of the document
+ Line: 16 [] []
+[2021-08-12 22:31:33] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/customer_account.xml' is not valid.
+Start tag expected, '<' not found
+ Line: 12 [] []
+[2021-08-12 22:31:34] main.CRITICAL: Class MyTest\Custom\Block\Index does not exist [] []
+[2021-08-12 22:31:34] main.CRITICAL: Invalid block type: MyTest\Custom\Block\Index [] []
+[2021-08-12 23:03:33] main.CRITICAL: Class MyTest\Custom\Block\Index does not exist [] []
+[2021-08-12 23:03:33] main.CRITICAL: Invalid block type: MyTest\Custom\Block\Index [] []
+[2021-08-13 00:38:24] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-13 00:38:25] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-13 00:38:25] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-13 00:38:30] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-13 00:38:31] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-13 00:38:31] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-13 00:40:02] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-13 06:43:09] main.CRITICAL: Class MyTest\Custom\Block\Index does not exist [] []
+[2021-08-13 06:43:09] main.CRITICAL: Invalid block type: MyTest\Custom\Block\Index [] []
+[2021-08-13 06:44:33] main.CRITICAL: Class MyTest\Custom\Block\Index does not exist [] []
+[2021-08-13 06:44:33] main.CRITICAL: Invalid block type: MyTest\Custom\Block\Index [] []
+[2021-08-13 06:49:23] main.CRITICAL: Class MyTest\Custom\Block\Index does not exist [] []
+[2021-08-13 06:49:23] main.CRITICAL: Invalid block type: MyTest\Custom\Block\Index [] []
+[2021-08-13 06:58:06] main.CRITICAL: Class MyTest\Custom\Block\Index does not exist [] []
+[2021-08-13 06:58:06] main.CRITICAL: Invalid block type: MyTest\Custom\Block\Index [] []
+[2021-08-13 06:59:46] main.CRITICAL: Class MyTest\Custom\Block\Index does not exist [] []
+[2021-08-13 06:59:46] main.CRITICAL: Invalid block type: MyTest\Custom\Block\Index [] []
+[2021-08-13 07:00:01] main.CRITICAL: Class MyTest\Custom\Block\Index does not exist [] []
+[2021-08-13 07:00:01] main.CRITICAL: Invalid block type: MyTest\Custom\Block\Index [] []
+[2021-08-13 07:06:06] main.CRITICAL: Class MyTest\Custom\Block\Index does not exist [] []
+[2021-08-13 07:06:06] main.CRITICAL: Invalid block type: MyTest\Custom\Block\Index [] []
+[2021-08-13 07:08:46] main.ERROR: The XML in file "/var/www/magento2.loc/app/code/MyTest/Custom/etc/frontend/routes.xml" is invalid:
+attributes construct error
+Line: 4
+
+Couldn't find end of Start Tag route line 4
+Line: 4
+
+Opening and ending tag mismatch: router line 2 and route
+Line: 6
+
+Opening and ending tag mismatch: config line 2 and router
+Line: 7
+
+Extra content at the end of the document
+Line: 8
+
+Verify the XML and try again. [] []
+[2021-08-13 07:08:57] main.ERROR: The XML in file "/var/www/magento2.loc/app/code/MyTest/Custom/etc/frontend/routes.xml" is invalid:
+attributes construct error
+Line: 4
+
+Couldn't find end of Start Tag route line 4
+Line: 4
+
+Opening and ending tag mismatch: router line 2 and route
+Line: 6
+
+Opening and ending tag mismatch: config line 2 and router
+Line: 7
+
+Extra content at the end of the document
+Line: 8
+
+Verify the XML and try again. [] []
+[2021-08-13 07:10:16] main.CRITICAL: Class MyTest\Custom\Block\Index does not exist [] []
+[2021-08-13 07:10:16] main.CRITICAL: Invalid block type: MyTest\Custom\Block\Index [] []
+[2021-08-13 07:12:32] main.CRITICAL: Class MyTest\Custom\Block\Index does not exist [] []
+[2021-08-13 07:12:32] main.CRITICAL: Invalid block type: MyTest\Custom\Block\Index [] []
+[2021-08-13 07:24:02] main.CRITICAL: Class MyTest\Custom\Block\Index does not exist [] []
+[2021-08-13 07:24:02] main.CRITICAL: Invalid block type: MyTest\Custom\Block\Index [] []
+[2021-08-13 07:31:03] main.CRITICAL: Class MyTest\Custom\Block\Index does not exist [] []
+[2021-08-13 07:31:03] main.CRITICAL: Invalid block type: MyTest\Custom\Block\Index [] []
+[2021-08-13 08:17:55] main.CRITICAL: Class MyTest\Custom\Block\Index does not exist [] []
+[2021-08-13 08:17:55] main.CRITICAL: Invalid block type: MyTest\Custom\Block\Index [] []
+[2021-08-13 08:21:08] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/custom_customer_index.xml' is not valid.
+Start tag expected, '<' not found
+ Line: 15 [] []
+[2021-08-13 08:21:08] main.CRITICAL: Class MyTest\Custom\Block\Index does not exist [] []
+[2021-08-13 08:21:08] main.CRITICAL: Invalid block type: MyTest\Custom\Block\Index [] []
+[2021-08-13 08:22:10] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/custom_customer_index.xml' is not valid.
+Start tag expected, '<' not found
+ Line: 15 [] []
+[2021-08-13 08:22:11] main.CRITICAL: Class MyTest\Custom\Block\Index does not exist [] []
+[2021-08-13 08:22:11] main.CRITICAL: Invalid block type: MyTest\Custom\Block\Index [] []
+[2021-08-13 08:29:25] main.CRITICAL: Class MyTest\Custom\Block\Index does not exist [] []
+[2021-08-13 08:29:25] main.CRITICAL: Invalid block type: MyTest\Custom\Block\Index [] []
+[2021-08-13 08:41:37] main.CRITICAL: Class MyTest\Custom\Block\Index does not exist [] []
+[2021-08-13 08:41:37] main.CRITICAL: Invalid block type: MyTest\Custom\Block\Index [] []
+[2021-08-13 08:46:28] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/custom_customer_index.xml' is not valid.
+Start tag expected, '<' not found
+ Line: 14 [] []
+[2021-08-13 10:10:56] main.CRITICAL: Class MyTest\Custom\Block\Index does not exist [] []
+[2021-08-13 10:10:56] main.CRITICAL: Invalid block type: MyTest\Custom\Block\Index [] []
+[2021-08-15 11:35:55] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-15 11:35:56] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-15 11:35:56] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-15 11:36:01] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-15 11:36:02] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-15 11:36:02] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-15 11:37:37] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-15 11:43:04] main.ERROR: Error during compilation
+#0 /var/www/magento2.loc/setup/src/Magento/Setup/Module/Di/Code/Reader/Decorator/Interceptions.php(85): Magento\Setup\Module\Di\Compiler\Log\Log->report()
+#1 /var/www/magento2.loc/setup/src/Magento/Setup/Module/Di/App/Task/Operation/InterceptionCache.php(59): Magento\Setup\Module\Di\Code\Reader\Decorator\Interceptions->getList()
+#2 /var/www/magento2.loc/setup/src/Magento/Setup/Module/Di/App/Task/Manager.php(56): Magento\Setup\Module\Di\App\Task\Operation\InterceptionCache->doOperation()
+#3 /var/www/magento2.loc/setup/src/Magento/Setup/Console/Command/DiCompileCommand.php(216): Magento\Setup\Module\Di\App\Task\Manager->process()
+#4 /var/www/magento2.loc/vendor/symfony/console/Command/Command.php(255): Magento\Setup\Console\Command\DiCompileCommand->execute()
+#5 /var/www/magento2.loc/vendor/symfony/console/Application.php(1009): Symfony\Component\Console\Command\Command->run()
+#6 /var/www/magento2.loc/vendor/symfony/console/Application.php(273): Symfony\Component\Console\Application->doRunCommand()
+#7 /var/www/magento2.loc/vendor/magento/framework/Console/Cli.php(115): Symfony\Component\Console\Application->doRun()
+#8 /var/www/magento2.loc/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#9 /var/www/magento2.loc/bin/magento(23): Symfony\Component\Console\Application->run()
+#10 {main} [] []
+[2021-08-15 11:48:08] main.ERROR: Error during compilation
+#0 /var/www/magento2.loc/setup/src/Magento/Setup/Module/Di/Code/Reader/Decorator/Interceptions.php(85): Magento\Setup\Module\Di\Compiler\Log\Log->report()
+#1 /var/www/magento2.loc/setup/src/Magento/Setup/Module/Di/App/Task/Operation/InterceptionCache.php(59): Magento\Setup\Module\Di\Code\Reader\Decorator\Interceptions->getList()
+#2 /var/www/magento2.loc/setup/src/Magento/Setup/Module/Di/App/Task/Manager.php(56): Magento\Setup\Module\Di\App\Task\Operation\InterceptionCache->doOperation()
+#3 /var/www/magento2.loc/setup/src/Magento/Setup/Console/Command/DiCompileCommand.php(216): Magento\Setup\Module\Di\App\Task\Manager->process()
+#4 /var/www/magento2.loc/vendor/symfony/console/Command/Command.php(255): Magento\Setup\Console\Command\DiCompileCommand->execute()
+#5 /var/www/magento2.loc/vendor/symfony/console/Application.php(1009): Symfony\Component\Console\Command\Command->run()
+#6 /var/www/magento2.loc/vendor/symfony/console/Application.php(273): Symfony\Component\Console\Application->doRunCommand()
+#7 /var/www/magento2.loc/vendor/magento/framework/Console/Cli.php(115): Symfony\Component\Console\Application->doRun()
+#8 /var/www/magento2.loc/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#9 /var/www/magento2.loc/bin/magento(23): Symfony\Component\Console\Application->run()
+#10 {main} [] []
+[2021-08-15 11:52:56] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-15 11:52:57] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-15 11:52:57] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-15 11:53:03] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-15 11:53:03] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-15 11:53:03] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-15 11:54:28] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-15 11:58:32] main.ERROR: Error during compilation
+#0 /var/www/magento2.loc/setup/src/Magento/Setup/Module/Di/Code/Reader/Decorator/Interceptions.php(85): Magento\Setup\Module\Di\Compiler\Log\Log->report()
+#1 /var/www/magento2.loc/setup/src/Magento/Setup/Module/Di/App/Task/Operation/InterceptionCache.php(59): Magento\Setup\Module\Di\Code\Reader\Decorator\Interceptions->getList()
+#2 /var/www/magento2.loc/setup/src/Magento/Setup/Module/Di/App/Task/Manager.php(56): Magento\Setup\Module\Di\App\Task\Operation\InterceptionCache->doOperation()
+#3 /var/www/magento2.loc/setup/src/Magento/Setup/Console/Command/DiCompileCommand.php(216): Magento\Setup\Module\Di\App\Task\Manager->process()
+#4 /var/www/magento2.loc/vendor/symfony/console/Command/Command.php(255): Magento\Setup\Console\Command\DiCompileCommand->execute()
+#5 /var/www/magento2.loc/vendor/symfony/console/Application.php(1009): Symfony\Component\Console\Command\Command->run()
+#6 /var/www/magento2.loc/vendor/symfony/console/Application.php(273): Symfony\Component\Console\Application->doRunCommand()
+#7 /var/www/magento2.loc/vendor/magento/framework/Console/Cli.php(115): Symfony\Component\Console\Application->doRun()
+#8 /var/www/magento2.loc/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#9 /var/www/magento2.loc/bin/magento(23): Symfony\Component\Console\Application->run()
+#10 {main} [] []
+[2021-08-15 12:03:06] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Block\Form, Argument 1 passed to Magento\Framework\View\Element\Template::__construct() must be an instance of Magento\Framework\View\Element\Template\Context, instance of Magento\Framework\View\Element\Template given, called in /var/www/magento2.loc/app/code/MyTest/Custom/Block/Form.php on line 18 [] []
+[2021-08-15 12:03:06] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Block\Form, Argument 1 passed to Magento\Framework\View\Element\Template::__construct() must be an instance of Magento\Framework\View\Element\Template\Context, instance of Magento\Framework\View\Element\Template given, called in /var/www/magento2.loc/app/code/MyTest/Custom/Block/Form.php on line 18 [] []
+[2021-08-15 12:03:48] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Block\Form, Argument 1 passed to Magento\Framework\View\Element\Template::__construct() must be an instance of Magento\Framework\View\Element\Template\Context, instance of Magento\Framework\View\Element\Template given, called in /var/www/magento2.loc/app/code/MyTest/Custom/Block/Form.php on line 18 [] []
+[2021-08-15 12:03:48] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Block\Form, Argument 1 passed to Magento\Framework\View\Element\Template::__construct() must be an instance of Magento\Framework\View\Element\Template\Context, instance of Magento\Framework\View\Element\Template given, called in /var/www/magento2.loc/app/code/MyTest/Custom/Block/Form.php on line 18 [] []
+[2021-08-15 12:06:47] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Block\Form, Argument 1 passed to Magento\Framework\View\Element\Template::__construct() must be an instance of Magento\Framework\View\Element\Template\Context, instance of Magento\Framework\View\Element\Template given, called in /var/www/magento2.loc/app/code/MyTest/Custom/Block/Form.php on line 18 [] []
+[2021-08-15 12:06:47] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Block\Form, Argument 1 passed to Magento\Framework\View\Element\Template::__construct() must be an instance of Magento\Framework\View\Element\Template\Context, instance of Magento\Framework\View\Element\Template given, called in /var/www/magento2.loc/app/code/MyTest/Custom/Block/Form.php on line 18 [] []
+[2021-08-15 13:23:41] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Block\Form, Argument 1 passed to Magento\Framework\View\Element\Template::__construct() must be an instance of Magento\Framework\View\Element\Template\Context, instance of Magento\Framework\View\Element\Template given, called in /var/www/magento2.loc/app/code/MyTest/Custom/Block/Form.php on line 18 [] []
+[2021-08-15 13:23:41] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Block\Form, Argument 1 passed to Magento\Framework\View\Element\Template::__construct() must be an instance of Magento\Framework\View\Element\Template\Context, instance of Magento\Framework\View\Element\Template given, called in /var/www/magento2.loc/app/code/MyTest/Custom/Block/Form.php on line 18 [] []
+[2021-08-15 13:26:38] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Block\Form, Argument 1 passed to Magento\Framework\View\Element\Template::__construct() must be an instance of Magento\Framework\View\Element\Template\Context, instance of Magento\Framework\View\Element\Template given, called in /var/www/magento2.loc/app/code/MyTest/Custom/Block/Form.php on line 18 [] []
+[2021-08-15 13:26:38] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Block\Form, Argument 1 passed to Magento\Framework\View\Element\Template::__construct() must be an instance of Magento\Framework\View\Element\Template\Context, instance of Magento\Framework\View\Element\Template given, called in /var/www/magento2.loc/app/code/MyTest/Custom/Block/Form.php on line 18 [] []
+[2021-08-15 18:59:31] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-15 19:02:58] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-15 19:43:01] main.ERROR: Notice: Undefined property: MyTest\Custom\Controller\Customer\Form::$_view in /var/www/magento2.loc/app/code/MyTest/Custom/Controller/Customer/Form.php on line 51 [] []
+[2021-08-15 20:05:32] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-15 20:09:52] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-15 20:11:35] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-15 20:12:16] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-15 20:30:22] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-15 20:30:22] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Block\Form, Argument 1 passed to Magento\Framework\View\Element\Template::__construct() must be an instance of Magento\Framework\View\Element\Template\Context, instance of Magento\Framework\View\Element\Template given, called in /var/www/magento2.loc/app/code/MyTest/Custom/Block/Form.php on line 18 [] []
+[2021-08-15 20:30:22] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Block\Form, Argument 1 passed to Magento\Framework\View\Element\Template::__construct() must be an instance of Magento\Framework\View\Element\Template\Context, instance of Magento\Framework\View\Element\Template given, called in /var/www/magento2.loc/app/code/MyTest/Custom/Block/Form.php on line 18 [] []
+[2021-08-15 20:32:06] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-15 20:35:39] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-16 07:51:27] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-16 07:51:29] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-16 09:22:21] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-16 11:05:52] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-16 11:10:16] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-16 11:11:13] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-16 11:12:44] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-16 11:13:33] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-16 11:14:32] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-16 11:16:50] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-16 11:30:07] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-16 11:34:21] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-16 11:35:38] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-16 11:36:26] main.INFO: Theme layout update file '/var/www/magento2.loc/app/code/MyTest/Custom/view/frontend/layout/mytestcustom_customer_form.xml' is not valid.
+Failed to parse QName 'xsi:'
+ Line: 2
+Specification mandates value for attribute xsi:
+ Line: 2
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2021-08-16 11:55:16] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Block\FormLeft, Argument 1 passed to Magento\Framework\View\Element\Template::__construct() must be an instance of Magento\Framework\View\Element\Template\Context, instance of Magento\Framework\View\Element\Template given, called in /var/www/magento2.loc/app/code/MyTest/Custom/Block/FormLeft.php on line 12 [] []
+[2021-08-16 11:55:16] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Block\FormLeft, Argument 1 passed to Magento\Framework\View\Element\Template::__construct() must be an instance of Magento\Framework\View\Element\Template\Context, instance of Magento\Framework\View\Element\Template given, called in /var/www/magento2.loc/app/code/MyTest/Custom/Block/FormLeft.php on line 12 [] []
+[2021-08-16 12:04:03] main.ERROR: Notice: Undefined property: MyTest\Custom\Controller\Customer\Index::$_view in /var/www/magento2.loc/app/code/MyTest/Custom/Controller/Customer/Index.php on line 13 [] []
+[2021-08-16 12:32:48] main.ERROR: Notice: Undefined property: MyTest\Custom\Controller\Customer\Index::$messageManager in /var/www/magento2.loc/app/code/MyTest/Custom/Controller/Customer/Index.php on line 34 [] []
+[2021-08-16 12:33:50] main.ERROR: Notice: Undefined property: MyTest\Custom\Controller\Customer\Index::$messageManager in /var/www/magento2.loc/app/code/MyTest/Custom/Controller/Customer/Index.php on line 34 [] []
+[2021-08-16 12:34:09] main.ERROR: Notice: Undefined property: MyTest\Custom\Controller\Customer\Index::$messageManager in /var/www/magento2.loc/app/code/MyTest/Custom/Controller/Customer/Index.php on line 34 [] []
+[2021-08-16 13:46:46] main.ERROR: The "-m" option does not exist.
+#0 /var/www/magento2.loc/vendor/symfony/console/Input/ArgvInput.php(100): Symfony\Component\Console\Input\ArgvInput->parseShortOptionSet()
+#1 /var/www/magento2.loc/vendor/symfony/console/Input/ArgvInput.php(81): Symfony\Component\Console\Input\ArgvInput->parseShortOption()
+#2 /var/www/magento2.loc/vendor/symfony/console/Input/Input.php(55): Symfony\Component\Console\Input\ArgvInput->parse()
+#3 /var/www/magento2.loc/vendor/symfony/console/Command/Command.php(214): Symfony\Component\Console\Input\Input->bind()
+#4 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Symfony\Component\Console\Command\Command->run()
+#5 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Developer\Console\Command\TablesWhitelistGenerateCommand\Interceptor->___callParent()
+#6 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Developer\Console\Command\TablesWhitelistGenerateCommand\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /var/www/magento2.loc/generated/code/Magento/Developer/Console/Command/TablesWhitelistGenerateCommand/Interceptor.php(23): Magento\Developer\Console\Command\TablesWhitelistGenerateCommand\Interceptor->___callPlugins()
+#8 /var/www/magento2.loc/vendor/symfony/console/Application.php(1009): Magento\Developer\Console\Command\TablesWhitelistGenerateCommand\Interceptor->run()
+#9 /var/www/magento2.loc/vendor/symfony/console/Application.php(273): Symfony\Component\Console\Application->doRunCommand()
+#10 /var/www/magento2.loc/vendor/magento/framework/Console/Cli.php(115): Symfony\Component\Console\Application->doRun()
+#11 /var/www/magento2.loc/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#12 /var/www/magento2.loc/bin/magento(23): Symfony\Component\Console\Application->run()
+#13 {main} [] []
+[2021-08-16 14:26:18] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-16 14:26:19] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-16 14:26:20] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-16 14:26:25] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-16 14:26:25] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-16 14:26:25] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-16 14:27:52] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-17 00:31:13] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Too few arguments to function MyTest\Custom\Controller\Customer\Index::__construct(), 2 passed in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 and exactly 3 expected [] []
+[2021-08-17 00:31:13] main.ERROR: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Too few arguments to function MyTest\Custom\Controller\Customer\Index::__construct(), 2 passed in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 and exactly 3 expected [] []
+[2021-08-17 00:36:02] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Too few arguments to function MyTest\Custom\Controller\Customer\Index::__construct(), 2 passed in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 and exactly 3 expected [] []
+[2021-08-17 00:36:02] main.ERROR: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Too few arguments to function MyTest\Custom\Controller\Customer\Index::__construct(), 2 passed in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 and exactly 3 expected [] []
+[2021-08-17 00:36:17] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Too few arguments to function MyTest\Custom\Controller\Customer\Index::__construct(), 2 passed in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 and exactly 3 expected [] []
+[2021-08-17 00:36:17] main.ERROR: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Too few arguments to function MyTest\Custom\Controller\Customer\Index::__construct(), 2 passed in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 and exactly 3 expected [] []
+[2021-08-17 00:49:12] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Too few arguments to function MyTest\Custom\Controller\Customer\Index::__construct(), 2 passed in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 and exactly 3 expected [] []
+[2021-08-17 00:49:12] main.ERROR: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Too few arguments to function MyTest\Custom\Controller\Customer\Index::__construct(), 2 passed in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 and exactly 3 expected [] []
+[2021-08-17 01:03:45] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Too few arguments to function MyTest\Custom\Controller\Customer\Index::__construct(), 2 passed in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 and exactly 3 expected [] []
+[2021-08-17 01:03:45] main.ERROR: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Too few arguments to function MyTest\Custom\Controller\Customer\Index::__construct(), 2 passed in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 and exactly 3 expected [] []
+[2021-08-17 01:07:24] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 2 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of MyTest\Custom\Model\Customer, instance of Magento\Framework\App\Request\Http given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-17 01:07:24] main.ERROR: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 2 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of MyTest\Custom\Model\Customer, instance of Magento\Framework\App\Request\Http given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-17 01:11:28] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Too few arguments to function MyTest\Custom\Controller\Customer\Index::__construct(), 2 passed in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 and exactly 4 expected [] []
+[2021-08-17 01:11:28] main.ERROR: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Too few arguments to function MyTest\Custom\Controller\Customer\Index::__construct(), 2 passed in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 and exactly 4 expected [] []
+[2021-08-17 01:28:18] main.CRITICAL: Error: Call to a member function getPost() on null in /var/www/magento2.loc/app/code/MyTest/Custom/Controller/Customer/Index.php:28
+Stack trace:
+#0 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): MyTest\Custom\Controller\Customer\Index->execute()
+#1 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): MyTest\Custom\Controller\Customer\Index\Interceptor->___callParent()
+#2 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): MyTest\Custom\Controller\Customer\Index\Interceptor->Magento\Framework\Interception\{closure}()
+#3 /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php(23): MyTest\Custom\Controller\Customer\Index\Interceptor->___callPlugins()
+#4 /var/www/magento2.loc/vendor/magento/framework/App/FrontController.php(248): MyTest\Custom\Controller\Customer\Index\Interceptor->execute()
+#5 /var/www/magento2.loc/vendor/magento/framework/App/FrontController.php(212): Magento\Framework\App\FrontController->getActionResponse()
+#6 /var/www/magento2.loc/vendor/magento/framework/App/FrontController.php(147): Magento\Framework\App\FrontController->processRequest()
+#7 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#8 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#9 /var/www/magento2.loc/vendor/magento/module-store/App/FrontController/Plugin/RequestPreprocessor.php(99): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#10 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Store\App\FrontController\Plugin\RequestPreprocessor->aroundDispatch()
+#11 /var/www/magento2.loc/vendor/magento/module-page-cache/Model/App/FrontController/BuiltinPlugin.php(75): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#12 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(135): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch()
+#13 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#14 /var/www/magento2.loc/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#15 /var/www/magento2.loc/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#16 /var/www/magento2.loc/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#17 /var/www/magento2.loc/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#18 /var/www/magento2.loc/pub/index.php(29): Magento\Framework\App\Bootstrap->run()
+#19 {main} [] []
+[2021-08-17 02:45:47] main.ERROR: Invalid return type [] []
+[2021-08-17 15:33:45] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 2 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of MyTest\Custom\Model\Customer, instance of Magento\Framework\App\Request\Http given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-17 15:33:45] main.ERROR: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 2 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of MyTest\Custom\Model\Customer, instance of Magento\Framework\App\Request\Http given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-17 15:35:00] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 2 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of MyTest\Custom\Model\Customer, instance of Magento\Framework\App\Request\Http given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-17 15:35:00] main.ERROR: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 2 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of MyTest\Custom\Model\Customer, instance of Magento\Framework\App\Request\Http given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-17 15:39:15] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 1 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of MyTest\Custom\Model\Customer, instance of Magento\Framework\View\Result\PageFactory given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-17 15:39:15] main.ERROR: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 1 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of MyTest\Custom\Model\Customer, instance of Magento\Framework\View\Result\PageFactory given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-17 15:45:32] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 1 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of Magento\Framework\App\Action\Context, instance of Magento\Framework\View\Result\PageFactory given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-17 15:45:32] main.ERROR: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 1 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of Magento\Framework\App\Action\Context, instance of Magento\Framework\View\Result\PageFactory given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-17 15:50:29] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 1 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of Magento\Framework\App\Action\Context, instance of Magento\Framework\View\Result\PageFactory given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-17 15:50:29] main.ERROR: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 1 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of Magento\Framework\App\Action\Context, instance of Magento\Framework\View\Result\PageFactory given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-17 15:55:05] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 1 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of Magento\Framework\App\Action\Context, instance of Magento\Framework\View\Result\PageFactory given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-17 15:55:05] main.ERROR: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 1 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of Magento\Framework\App\Action\Context, instance of Magento\Framework\View\Result\PageFactory given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-17 15:58:34] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 2 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of Magento\Framework\App\Action\Context, instance of Magento\Framework\App\Request\Http given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-17 15:58:35] main.ERROR: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 2 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of Magento\Framework\App\Action\Context, instance of Magento\Framework\App\Request\Http given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-17 16:22:11] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 1 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of Magento\Framework\App\Action\Context, instance of Magento\Framework\View\Result\PageFactory given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-17 16:22:11] main.ERROR: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 1 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of Magento\Framework\App\Action\Context, instance of Magento\Framework\View\Result\PageFactory given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-18 08:42:21] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 1 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of Magento\Framework\App\Action\Context, instance of Magento\Framework\View\Result\PageFactory given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-18 08:42:21] main.ERROR: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 1 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of Magento\Framework\App\Action\Context, instance of Magento\Framework\View\Result\PageFactory given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-18 08:59:20] main.CRITICAL: Error: Class 'MyTest\Custom\Model\ResourseModel\Customer' not found in /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:121
+Stack trace:
+#0 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(108): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#1 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#2 /var/www/magento2.loc/vendor/magento/framework/Model/AbstractModel.php(481): Magento\Framework\ObjectManager\ObjectManager->get()
+#3 /var/www/magento2.loc/vendor/magento/framework/Model/AbstractModel.php(217): Magento\Framework\Model\AbstractModel->_getResource()
+#4 /var/www/magento2.loc/app/code/MyTest/Custom/Model/Customer.php(12): Magento\Framework\Model\AbstractModel->_init()
+#5 /var/www/magento2.loc/vendor/magento/framework/Model/AbstractModel.php(196): MyTest\Custom\Model\Customer->_construct()
+#6 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Framework\Model\AbstractModel->__construct()
+#7 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(108): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#8 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(150): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#9 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(79): Magento\Framework\ObjectManager\Factory\Compiled->get()
+#10 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#11 /var/www/magento2.loc/vendor/magento/framework/App/ActionFactory.php(44): Magento\Framework\ObjectManager\ObjectManager->create()
+#12 /var/www/magento2.loc/vendor/magento/framework/App/Router/Base.php(306): Magento\Framework\App\ActionFactory->create()
+#13 /var/www/magento2.loc/vendor/magento/framework/App/Router/Base.php(167): Magento\Framework\App\Router\Base->matchAction()
+#14 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\Router\Base->match()
+#15 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\Router\Base\Interceptor->___callParent()
+#16 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\Router\Base\Interceptor->Magento\Framework\Interception\{closure}()
+#17 /var/www/magento2.loc/generated/code/Magento/Framework/App/Router/Base/Interceptor.php(23): Magento\Framework\App\Router\Base\Interceptor->___callPlugins()
+#18 /var/www/magento2.loc/vendor/magento/framework/App/FrontController.php(144): Magento\Framework\App\Router\Base\Interceptor->match()
+#19 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#20 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#21 /var/www/magento2.loc/vendor/magento/module-store/App/FrontController/Plugin/RequestPreprocessor.php(99): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#22 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Store\App\FrontController\Plugin\RequestPreprocessor->aroundDispatch()
+#23 /var/www/magento2.loc/vendor/magento/module-page-cache/Model/App/FrontController/BuiltinPlugin.php(75): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#24 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(135): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch()
+#25 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#26 /var/www/magento2.loc/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#27 /var/www/magento2.loc/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#28 /var/www/magento2.loc/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#29 /var/www/magento2.loc/pub/index.php(29): Magento\Framework\App\Bootstrap->run()
+#30 {main} [] []
+[2021-08-18 09:15:11] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-18 09:15:12] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-18 09:15:12] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-18 09:15:19] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-18 09:15:19] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-18 09:15:20] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-18 09:17:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-18 09:25:09] main.CRITICAL: Error: Class 'MyTest\Custom\Model\ResourseModel\Customer' not found in /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:121
+Stack trace:
+#0 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(108): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#1 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#2 /var/www/magento2.loc/vendor/magento/framework/Model/AbstractModel.php(481): Magento\Framework\ObjectManager\ObjectManager->get()
+#3 /var/www/magento2.loc/vendor/magento/framework/Model/AbstractModel.php(217): Magento\Framework\Model\AbstractModel->_getResource()
+#4 /var/www/magento2.loc/app/code/MyTest/Custom/Model/Customer.php(12): Magento\Framework\Model\AbstractModel->_init()
+#5 /var/www/magento2.loc/vendor/magento/framework/Model/AbstractModel.php(196): MyTest\Custom\Model\Customer->_construct()
+#6 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Framework\Model\AbstractModel->__construct()
+#7 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(108): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#8 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(150): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#9 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(79): Magento\Framework\ObjectManager\Factory\Compiled->get()
+#10 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#11 /var/www/magento2.loc/vendor/magento/framework/App/ActionFactory.php(44): Magento\Framework\ObjectManager\ObjectManager->create()
+#12 /var/www/magento2.loc/vendor/magento/framework/App/Router/Base.php(306): Magento\Framework\App\ActionFactory->create()
+#13 /var/www/magento2.loc/vendor/magento/framework/App/Router/Base.php(167): Magento\Framework\App\Router\Base->matchAction()
+#14 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\Router\Base->match()
+#15 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\Router\Base\Interceptor->___callParent()
+#16 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\Router\Base\Interceptor->Magento\Framework\Interception\{closure}()
+#17 /var/www/magento2.loc/generated/code/Magento/Framework/App/Router/Base/Interceptor.php(23): Magento\Framework\App\Router\Base\Interceptor->___callPlugins()
+#18 /var/www/magento2.loc/vendor/magento/framework/App/FrontController.php(144): Magento\Framework\App\Router\Base\Interceptor->match()
+#19 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#20 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#21 /var/www/magento2.loc/vendor/magento/module-store/App/FrontController/Plugin/RequestPreprocessor.php(99): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#22 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Store\App\FrontController\Plugin\RequestPreprocessor->aroundDispatch()
+#23 /var/www/magento2.loc/vendor/magento/module-page-cache/Model/App/FrontController/BuiltinPlugin.php(75): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#24 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(135): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch()
+#25 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#26 /var/www/magento2.loc/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#27 /var/www/magento2.loc/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#28 /var/www/magento2.loc/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#29 /var/www/magento2.loc/pub/index.php(29): Magento\Framework\App\Bootstrap->run()
+#30 {main} [] []
+[2021-08-18 09:31:52] main.CRITICAL: Error: Class 'MyTest\Custom\Model\ResourseModel\Customer' not found in /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:121
+Stack trace:
+#0 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(108): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#1 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#2 /var/www/magento2.loc/vendor/magento/framework/Model/AbstractModel.php(481): Magento\Framework\ObjectManager\ObjectManager->get()
+#3 /var/www/magento2.loc/vendor/magento/framework/Model/AbstractModel.php(217): Magento\Framework\Model\AbstractModel->_getResource()
+#4 /var/www/magento2.loc/app/code/MyTest/Custom/Model/Customer.php(12): Magento\Framework\Model\AbstractModel->_init()
+#5 /var/www/magento2.loc/vendor/magento/framework/Model/AbstractModel.php(196): MyTest\Custom\Model\Customer->_construct()
+#6 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Framework\Model\AbstractModel->__construct()
+#7 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(108): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#8 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(150): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#9 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(79): Magento\Framework\ObjectManager\Factory\Compiled->get()
+#10 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#11 /var/www/magento2.loc/vendor/magento/framework/App/ActionFactory.php(44): Magento\Framework\ObjectManager\ObjectManager->create()
+#12 /var/www/magento2.loc/vendor/magento/framework/App/Router/Base.php(306): Magento\Framework\App\ActionFactory->create()
+#13 /var/www/magento2.loc/vendor/magento/framework/App/Router/Base.php(167): Magento\Framework\App\Router\Base->matchAction()
+#14 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\Router\Base->match()
+#15 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\Router\Base\Interceptor->___callParent()
+#16 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\Router\Base\Interceptor->Magento\Framework\Interception\{closure}()
+#17 /var/www/magento2.loc/generated/code/Magento/Framework/App/Router/Base/Interceptor.php(23): Magento\Framework\App\Router\Base\Interceptor->___callPlugins()
+#18 /var/www/magento2.loc/vendor/magento/framework/App/FrontController.php(144): Magento\Framework\App\Router\Base\Interceptor->match()
+#19 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#20 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#21 /var/www/magento2.loc/vendor/magento/module-store/App/FrontController/Plugin/RequestPreprocessor.php(99): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#22 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Store\App\FrontController\Plugin\RequestPreprocessor->aroundDispatch()
+#23 /var/www/magento2.loc/vendor/magento/module-page-cache/Model/App/FrontController/BuiltinPlugin.php(75): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#24 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(135): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch()
+#25 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#26 /var/www/magento2.loc/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#27 /var/www/magento2.loc/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#28 /var/www/magento2.loc/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#29 /var/www/magento2.loc/pub/index.php(29): Magento\Framework\App\Bootstrap->run()
+#30 {main} [] []
+[2021-08-18 09:39:21] main.CRITICAL: Error: Class 'MyTest\Custom\Model\ResourseModel\Customer' not found in /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:121
+Stack trace:
+#0 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(108): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#1 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#2 /var/www/magento2.loc/vendor/magento/framework/Model/AbstractModel.php(481): Magento\Framework\ObjectManager\ObjectManager->get()
+#3 /var/www/magento2.loc/vendor/magento/framework/Model/AbstractModel.php(217): Magento\Framework\Model\AbstractModel->_getResource()
+#4 /var/www/magento2.loc/app/code/MyTest/Custom/Model/Customer.php(12): Magento\Framework\Model\AbstractModel->_init()
+#5 /var/www/magento2.loc/vendor/magento/framework/Model/AbstractModel.php(196): MyTest\Custom\Model\Customer->_construct()
+#6 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Framework\Model\AbstractModel->__construct()
+#7 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(108): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#8 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(150): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#9 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(79): Magento\Framework\ObjectManager\Factory\Compiled->get()
+#10 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#11 /var/www/magento2.loc/vendor/magento/framework/App/ActionFactory.php(44): Magento\Framework\ObjectManager\ObjectManager->create()
+#12 /var/www/magento2.loc/vendor/magento/framework/App/Router/Base.php(306): Magento\Framework\App\ActionFactory->create()
+#13 /var/www/magento2.loc/vendor/magento/framework/App/Router/Base.php(167): Magento\Framework\App\Router\Base->matchAction()
+#14 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\Router\Base->match()
+#15 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\Router\Base\Interceptor->___callParent()
+#16 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\Router\Base\Interceptor->Magento\Framework\Interception\{closure}()
+#17 /var/www/magento2.loc/generated/code/Magento/Framework/App/Router/Base/Interceptor.php(23): Magento\Framework\App\Router\Base\Interceptor->___callPlugins()
+#18 /var/www/magento2.loc/vendor/magento/framework/App/FrontController.php(144): Magento\Framework\App\Router\Base\Interceptor->match()
+#19 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#20 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#21 /var/www/magento2.loc/vendor/magento/module-store/App/FrontController/Plugin/RequestPreprocessor.php(99): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#22 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Store\App\FrontController\Plugin\RequestPreprocessor->aroundDispatch()
+#23 /var/www/magento2.loc/vendor/magento/module-page-cache/Model/App/FrontController/BuiltinPlugin.php(75): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#24 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(135): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch()
+#25 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#26 /var/www/magento2.loc/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#27 /var/www/magento2.loc/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#28 /var/www/magento2.loc/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#29 /var/www/magento2.loc/pub/index.php(29): Magento\Framework\App\Bootstrap->run()
+#30 {main} [] []
+[2021-08-18 09:47:58] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-18 09:47:59] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-18 09:47:59] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-18 09:48:05] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-18 09:48:05] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-18 09:48:06] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-18 09:49:39] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2021-08-18 09:59:47] main.CRITICAL: Error: Class 'MyTest\Custom\Model\ResourseModel\Customer' not found in /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:121
+Stack trace:
+#0 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(108): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#1 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#2 /var/www/magento2.loc/vendor/magento/framework/Model/AbstractModel.php(481): Magento\Framework\ObjectManager\ObjectManager->get()
+#3 /var/www/magento2.loc/vendor/magento/framework/Model/AbstractModel.php(217): Magento\Framework\Model\AbstractModel->_getResource()
+#4 /var/www/magento2.loc/app/code/MyTest/Custom/Model/Customer.php(12): Magento\Framework\Model\AbstractModel->_init()
+#5 /var/www/magento2.loc/vendor/magento/framework/Model/AbstractModel.php(196): MyTest\Custom\Model\Customer->_construct()
+#6 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Framework\Model\AbstractModel->__construct()
+#7 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(108): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#8 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(150): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#9 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/Factory/Compiled.php(79): Magento\Framework\ObjectManager\Factory\Compiled->get()
+#10 /var/www/magento2.loc/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Compiled->create()
+#11 /var/www/magento2.loc/vendor/magento/framework/App/ActionFactory.php(44): Magento\Framework\ObjectManager\ObjectManager->create()
+#12 /var/www/magento2.loc/vendor/magento/framework/App/Router/Base.php(306): Magento\Framework\App\ActionFactory->create()
+#13 /var/www/magento2.loc/vendor/magento/framework/App/Router/Base.php(167): Magento\Framework\App\Router\Base->matchAction()
+#14 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\Router\Base->match()
+#15 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\Router\Base\Interceptor->___callParent()
+#16 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\Router\Base\Interceptor->Magento\Framework\Interception\{closure}()
+#17 /var/www/magento2.loc/generated/code/Magento/Framework/App/Router/Base/Interceptor.php(23): Magento\Framework\App\Router\Base\Interceptor->___callPlugins()
+#18 /var/www/magento2.loc/vendor/magento/framework/App/FrontController.php(144): Magento\Framework\App\Router\Base\Interceptor->match()
+#19 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#20 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#21 /var/www/magento2.loc/vendor/magento/module-store/App/FrontController/Plugin/RequestPreprocessor.php(99): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#22 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Store\App\FrontController\Plugin\RequestPreprocessor->aroundDispatch()
+#23 /var/www/magento2.loc/vendor/magento/module-page-cache/Model/App/FrontController/BuiltinPlugin.php(75): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#24 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(135): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch()
+#25 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#26 /var/www/magento2.loc/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#27 /var/www/magento2.loc/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#28 /var/www/magento2.loc/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#29 /var/www/magento2.loc/pub/index.php(29): Magento\Framework\App\Bootstrap->run()
+#30 {main} [] []
+[2021-08-18 10:19:44] main.ERROR: Notice: Undefined property: MyTest\Custom\Controller\Customer\Index\Interceptor::$request in /var/www/magento2.loc/app/code/MyTest/Custom/Controller/Customer/Index.php on line 29 [] []
+[2021-08-18 10:21:52] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 3 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of Magento\Framework\App\Request\Http, instance of Magento\Framework\Stdlib\DateTime\DateTime given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-18 10:21:52] main.ERROR: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 3 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of Magento\Framework\App\Request\Http, instance of Magento\Framework\Stdlib\DateTime\DateTime given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-18 10:31:00] main.ERROR: Invalid method MyTest\Custom\Model\Customer::create [] []
+[2021-08-18 10:34:13] main.CRITICAL: TypeError: Argument 1 passed to Magento\Framework\DataObject::addData() must be of the type array, string given, called in /var/www/magento2.loc/app/code/MyTest/Custom/Controller/Customer/Index.php on line 38 and defined in /var/www/magento2.loc/vendor/magento/framework/DataObject.php:52
+Stack trace:
+#0 /var/www/magento2.loc/app/code/MyTest/Custom/Controller/Customer/Index.php(38): Magento\Framework\DataObject->addData()
+#1 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): MyTest\Custom\Controller\Customer\Index->execute()
+#2 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): MyTest\Custom\Controller\Customer\Index\Interceptor->___callParent()
+#3 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): MyTest\Custom\Controller\Customer\Index\Interceptor->Magento\Framework\Interception\{closure}()
+#4 /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php(23): MyTest\Custom\Controller\Customer\Index\Interceptor->___callPlugins()
+#5 /var/www/magento2.loc/vendor/magento/framework/App/Action/Action.php(111): MyTest\Custom\Controller\Customer\Index\Interceptor->execute()
+#6 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\Action\Action->dispatch()
+#7 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): MyTest\Custom\Controller\Customer\Index\Interceptor->___callParent()
+#8 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): MyTest\Custom\Controller\Customer\Index\Interceptor->Magento\Framework\Interception\{closure}()
+#9 /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php(32): MyTest\Custom\Controller\Customer\Index\Interceptor->___callPlugins()
+#10 /var/www/magento2.loc/vendor/magento/framework/App/FrontController.php(245): MyTest\Custom\Controller\Customer\Index\Interceptor->dispatch()
+#11 /var/www/magento2.loc/vendor/magento/framework/App/FrontController.php(212): Magento\Framework\App\FrontController->getActionResponse()
+#12 /var/www/magento2.loc/vendor/magento/framework/App/FrontController.php(147): Magento\Framework\App\FrontController->processRequest()
+#13 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#14 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#15 /var/www/magento2.loc/vendor/magento/module-store/App/FrontController/Plugin/RequestPreprocessor.php(99): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#16 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Store\App\FrontController\Plugin\RequestPreprocessor->aroundDispatch()
+#17 /var/www/magento2.loc/vendor/magento/module-page-cache/Model/App/FrontController/BuiltinPlugin.php(75): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#18 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(135): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch()
+#19 /var/www/magento2.loc/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#20 /var/www/magento2.loc/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#21 /var/www/magento2.loc/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#22 /var/www/magento2.loc/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#23 /var/www/magento2.loc/pub/index.php(29): Magento\Framework\App\Bootstrap->run()
+#24 {main} [] []
+[2021-08-18 13:05:44] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 1 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of Magento\Framework\View\Result\PageFactory, instance of Magento\Framework\App\Action\Context given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-18 13:05:44] main.ERROR: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Argument 1 passed to MyTest\Custom\Controller\Customer\Index::__construct() must be an instance of Magento\Framework\View\Result\PageFactory, instance of Magento\Framework\App\Action\Context given, called in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 [] []
+[2021-08-18 13:13:58] main.ERROR: Notice: Undefined property: MyTest\Custom\Controller\Customer\Index\Interceptor::$messageManager in /var/www/magento2.loc/app/code/MyTest/Custom/Controller/Customer/Index.php on line 50 [] []
+[2021-08-18 13:26:13] main.CRITICAL: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Too few arguments to function MyTest\Custom\Controller\Customer\Index::__construct(), 4 passed in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 and exactly 5 expected [] []
+[2021-08-18 13:26:13] main.ERROR: Type Error occurred when creating object: MyTest\Custom\Controller\Customer\Index\Interceptor, Too few arguments to function MyTest\Custom\Controller\Customer\Index::__construct(), 4 passed in /var/www/magento2.loc/generated/code/MyTest/Custom/Controller/Customer/Index/Interceptor.php on line 14 and exactly 5 expected [] []

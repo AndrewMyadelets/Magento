@@ -1,0 +1,1 @@
+/var/www/magento2.loc/vendor/magento/module-inventory-swatches-frontend-ui/view/frontend/web/js/swatch-renderer.js

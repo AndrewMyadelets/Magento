@@ -1,0 +1,7 @@
+<page layout="1column" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceContainer name="sidebar.main">
+            <block class="MyTest\Custom\Block\FormLeft" name="customer.form.left" template="MyTest_Custom::form_left.phtml"></block>
+        </referenceContainer>
+    </body>
+</page>

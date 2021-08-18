@@ -1,0 +1,11 @@
+{
+    "customer_message": {
+        "column": {
+            "message_id": true,
+            "message": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}

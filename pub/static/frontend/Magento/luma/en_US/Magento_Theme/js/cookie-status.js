@@ -1,0 +1,1 @@
+/var/www/magento2.loc/vendor/magento/module-theme/view/frontend/web/js/cookie-status.js
